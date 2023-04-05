@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-05T09:42:22.477-0300</date>
+  <logger>NATHAN ANDRADE HENRIQUES</logger>
+  <level>FINE</level>
+  <message>File 118110494-NATHAN ANDRADE HENRIQUES.zip was received. It was sent by NATHAN ANDRADE HENRIQUES from IP 150.165.42.131 at 05-04-2023 09*42*22</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-05T09:54:28.815-0300</date>
+  <logger>NATHAN ANDRADE HENRIQUES</logger>
+  <level>FINE</level>
+  <message>File 118110494-NATHAN ANDRADE HENRIQUES.zip was received. It was sent by NATHAN ANDRADE HENRIQUES from IP 150.165.42.131 at 05-04-2023 09*54*28</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-05T09:54:58.783-0300</date>
+  <logger>NATHAN ANDRADE HENRIQUES</logger>
+  <level>FINE</level>
+  <message>File 118110494-NATHAN ANDRADE HENRIQUES.zip was received. It was sent by NATHAN ANDRADE HENRIQUES from IP 150.165.42.131 at 05-04-2023 09*54*58</message>
+</record>
