@@ -41,10 +41,12 @@ public class StudentSortingTest {
 	 */
 	private void getImplementation() {
 
-		// this.implementation = new HybridMergeSort<Integer>();
+		 this.implementation = new HybridMergeSort<Integer>();
+
 		// this.implementation = new MergeSort<Integer>();
 
-		 this.implementation = new QuickSort<Integer>();
+		// this.implementation = new QuickSort<Integer>();
+
 		// this.implementation = new QuickSortMedianOfThree<Integer>();
 	}
 

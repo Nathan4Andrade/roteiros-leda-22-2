@@ -57,3 +57,13 @@
   <level>FINE</level>
   <message>File 118110494-NATHAN ANDRADE HENRIQUES.zip was received. It was sent by NATHAN ANDRADE HENRIQUES from IP 150.165.42.116 at 14-04-2023 10*31*31</message>
 </record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-14T11:26:54.997-0300</date>
+  <logger>NATHAN ANDRADE HENRIQUES</logger>
+  <level>FINE</level>
+  <message>File 118110494-NATHAN ANDRADE HENRIQUES.zip was received. It was sent by NATHAN ANDRADE HENRIQUES from IP 150.165.42.116 at 14-04-2023 11*26*54</message>
+</record>
